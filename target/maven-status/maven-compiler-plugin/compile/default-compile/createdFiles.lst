@@ -1,0 +1,10 @@
+VertXCommons\Commands\CommandAsset.class
+VertXCommons\Storage\SQLPool.class
+VertXCommons\Listeners\LogInListener.class
+VertXCommons\Storage\DatabaseTable$ColumnWrapper.class
+VertXCommons\Storage\DatabaseTable.class
+VertXCommons\Storage\PlayerData.class
+VertXCommons\Main\VertXCommons.class
+VertXCommons\Main\VertXLogger.class
+VertXCommons\Storage\ThrowingConsumer.class
+VertXCommons\Commands\AllowableUserType.class
